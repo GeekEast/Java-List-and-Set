@@ -8,7 +8,6 @@
 - Allow duplicate elements.
 
 ### ArrayList
-- resizable
 - Random Access
 
 ### LinkedList
