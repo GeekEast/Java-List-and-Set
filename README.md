@@ -4,7 +4,7 @@
 - A group of objects (elements)
 
 ## List
-- An ordered list (indexed)
+- must be sequential (have an order)
 - Allow duplicate elements.
 
 ### ArrayList
@@ -14,11 +14,10 @@
 - Insert or remove at ends
 
 ## Set
-- Unordered
-- Don't allow duplicates
+- each element is unique
 
 ### HashSet
-- `hashCode()` and `equals()` to identify uniqueness
+- not sorted
 
 #### LinkedHashSet
 - The elements in a HashSet are not ordered
